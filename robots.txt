@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gohneelail.rentagiraffe.com/sitemap.xml
